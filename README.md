@@ -33,7 +33,7 @@ pip install folium requests
 3. Run the script:
 
 ```bash
-python interactive_map.py
+python map.py
 ```
 
 This will generate an interactive map that you can view in a web browser.
